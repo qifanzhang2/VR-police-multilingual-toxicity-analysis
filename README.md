@@ -1,6 +1,6 @@
 VR-POLICE: Cross-Cultural Toxicity Detection & Insight Platform
 Objective
-Automate the detection, measurement, and visual reporting of toxic behaviour in social‑VR voice chat so designers can make data‑driven safety decisions.
+Automate the detection, measurement, and visual reporting of toxic behavior in social‑VR voice chat so designers can make data‑driven safety decisions.
 My Contribution
 Designed and coded the entire analytics workflow—from raw voice‑to‑text output to executive‑ready dashboards—using modern NLP and data‑engineering practices.
 Key Outcomes
