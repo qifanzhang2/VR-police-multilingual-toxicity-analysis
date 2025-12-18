@@ -21,9 +21,11 @@ Matplotlib‑based bar plots & frequency charts
 Collaboration
 Git, README‑driven docs, requirements.txt
 Repository Layout
-vr‑police/ ├── data_ingest.py             # parses *.pkl transcripts → clean CSV ├── crosslingual_toxicity.py   # sentiment + toxic‑word analytics, JSON prompt builder ├── llm_visualizer.py          # ingests LLM response, produces plots & reports ├── requirements.txt           # project dependencies └── README.md                  # quick‑start & developer notes
-Database Preview
-language | speaker_id | text | clean_text | sentiment_type en | 1 | That’s so dumb, why would you even do that | dumb even | NEGATIVE pt | 2 | Sai daqui, idiota! | sair idiota | NEGATIVE en | 3 | Nice shot, that was really smooth | nice shot smooth | POSITIVE ar | 4 | أنت غبي ولا تفهم شيئًا | غبي تفهم شيء | NEGATIVE
+vr‑police/
+├── data_ingest.py             # parses *.pkl transcripts → clean CSV
+├── crosslingual_toxicity.py   # sentiment + toxic‑word analytics, JSON prompt builder
+├── llm_visualizer.py          # ingests LLM response, produces plots & reports ├── requirements.txt           # project dependencies
+└── README.md                  
 Skills Demonstrated
 - Full‑stack data science – ingestion → NLP → visual analytics.
 - Cross‑cultural NLP – lemmatization & sentiment across four languages.
